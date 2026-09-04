@@ -1,0 +1,8 @@
+livekit>=1.1.15
+livekit-agents>=1.7.1
+livekit-plugins-rime>=1.7.1
+livekit-plugins-openai>=1.7.1
+livekit-plugins-silero>=1.7.1
+faster-whisper>=1.0.0
+python-dotenv>=1.0.0
+
